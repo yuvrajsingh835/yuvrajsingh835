@@ -37,10 +37,8 @@
 
 ## 🌱 Recent GitHub Activity
 
-<!-- You can optionally replace this with your actual recent commits or use GitHub Actions for custom feeds -->
-
 <p align="center">
-  <em>Recent activity graph temporarily unavailable. Try tools like <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a> with a personal token if needed.</em>
+  <img src="https://github-readme-activity-graph-1n2k092jb-yuvrajsingh835s-projects.vercel.app/graph?username=yuvrajsingh835&theme=github-compact&hide_border=true" />
 </p>
 
 ---
