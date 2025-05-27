@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuvrajsingh835
+- 👋 Hi, I’m Yuvraj Singh
 - 👀 I’m interested in Coding stuffs
 - 🌱 I’m currently doing Bachlors in Electronics and Communication Engineering
 - 📫 Feel free to reach me on yuvraj.23gcebec099@galgotiacollege.edu
