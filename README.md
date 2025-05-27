@@ -37,10 +37,8 @@
 
 ## 🌱 Daily GitHub Activity
 
-<p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh835
-https://github.com/yuvrajsingh835/github-readme-activity-graph)
-</p>
+[![Yuvraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh835&theme=dracula)](https://github.com/yuvrajsingh835/github-readme-activity-graph)
+
 
 
 ---
