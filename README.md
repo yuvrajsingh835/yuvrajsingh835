@@ -27,9 +27,9 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh835&show_icons=true&theme=algolia&hide_border=true&border_radius=12" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsingh835&layout=compact&theme=algolia&hide_border=true&border_radius=12" width="45%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh835&show_icons=true&theme=algolia&hide_border=true&border_radius=12" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsingh835&layout=compact&theme=algolia&hide_border=true&border_radius=12" width="49%" />
 </div>
 
 
