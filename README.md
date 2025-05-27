@@ -38,7 +38,8 @@
 ## 🌱 Daily GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuvrajsingh835&theme=algolia&hide_border=true" />
+  https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh835
+https://github.com/yuvrajsingh835/github-readme-activity-graph)
 </p>
 
 
