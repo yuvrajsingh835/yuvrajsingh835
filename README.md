@@ -7,7 +7,7 @@
 
 ## 🧩 Who Am I?
 
-🎓 Final-year tech explorer passionate about digital systems, AI, and hardware-software integration.  
+🎓 Pre-Final year tech explorer passionate about digital systems, AI, and hardware-software integration.  
 🛠️ Building real-world solutions using Verilog, Vivado, C/C++, and AI tools.  
 🚀 Always ready to prototype ideas — from FPGA logic to cinematic edits in Premiere Pro.
 
