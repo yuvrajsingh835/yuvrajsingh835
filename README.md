@@ -35,11 +35,12 @@
 
 ---
 
-## 🌱 Recent GitHub Activity
+## 🌱 Daily GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-1n2k092jb-yuvrajsingh835s-projects.vercel.app/graph?username=yuvrajsingh835&theme=github-compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=yuvrajsingh835&theme=algolia&hide_border=true" />
 </p>
+
 
 ---
 
