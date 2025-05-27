@@ -37,7 +37,10 @@
 
 ## 🌱 Daily GitHub Activity
 
-[![Yuvraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh835&theme=react-dark)](https://github.com/yuvrajsingh835/github-readme-activity-graph)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yuvrajsingh835&theme=algolia&hide_border=true" />
+</p>
+
 
 
 
