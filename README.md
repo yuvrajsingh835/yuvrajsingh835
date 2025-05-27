@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yuvraj+Singh;Engineer+%7C+Builder+%7C+Innovator;Welcome+to+my+GitHub+Profile!+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yuvraj+Singh; Engineer+%7C+Builder+%7C+Innovator; Welcome+to+my+GitHub+Profile!+👨‍💻" alt="Typing SVG" />
 </div>
 
 ---
