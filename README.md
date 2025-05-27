@@ -1,64 +1,60 @@
-<h1 align="center">Hi there, I'm Yuvraj Singh 👨‍💻</h1>
-<p align="center">🚀 Engineering creativity with code | Exploring AI, IoT & Innovation</p>
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yuvraj+Singh;Engineer+%7C+Builder+%7C+Innovator;Welcome+to+my+GitHub+Profile!+👨‍💻" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧩 Who Am I?
 
-- 🎓 Tech enthusiast with a passion for solving real-world problems.
-- 🛠️ Currently building projects around **AI**, **IoT**, and **embedded systems**.
-- 🌱 Always learning: low-level computing, microcontrollers, and smart automation.
-- 🧩 Love breaking down systems and rebuilding them better.
-
----
-
-## 🚀 Tech Arsenal
-
-<p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+🎓 Final-year tech explorer passionate about digital systems, AI, and hardware-software integration.  
+🛠️ Building real-world solutions using Verilog, Vivado, C/C++, and AI tools.  
+🚀 Always ready to prototype ideas — from FPGA logic to cinematic edits in Premiere Pro.
 
 ---
 
-## 📈 Stats & Highlights
+## ⚙️ Toolbox I Use
+
+<div align="center">
+  
+| Languages | Tools & Platforms | Creative |
+|----------|------------------|----------|
+| ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-FF6600?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005C8D?style=for-the-badge&logo=autodesk&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) |
+  
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh835&show_icons=true&theme=algolia&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsingh835&layout=compact&theme=algolia&hide_border=true&border_radius=12" width="48%" />
+</div>
+
+---
+
+## 🌱 Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh835&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsingh835&layout=compact&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yuvrajsingh835&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-## 🔁 Activity Tracker
+## 🌐 Let's Network
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yuvrajsingh835&theme=rogue" />
-</p>
-
----
-
-## 🌍 Let’s Connect
-
-<p>
   <a href="https://www.linkedin.com/in/yuvrajsingh835/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👁️ Profile Visitors
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yuvrajsingh835&label=Visitors&color=blueviolet&style=flat-square" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvrajsingh835&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
