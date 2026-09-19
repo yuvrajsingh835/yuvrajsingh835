@@ -1,44 +1,17 @@
 <!-- HEADER -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Yuvraj+Singh;Senior+UG+Researcher;Biomedical+Antenna+Design;RF+%7C+Microwave+%7C+Implantable+Antennas" alt="Typing SVG" />
-
-<br>
-
-<p>
-  <a href="https://www.linkedin.com/in/yuvrajsingh835/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:yuvraj.singh2017ys@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Yuvraj+Singh;Biomedical+Antenna+Researcher;RF+%7C+Microwave+%7C+Implantable+Antennas;Welcome+to+my+GitHub+Profile!+👨‍🔬" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👨‍🔬 About Me
+## 🧩 Who Am I?
 
-🎓 B.Tech Electronics & Communication Engineering student and Senior Undergraduate Researcher.
-
-📡 Working primarily on **biomedical and implantable antenna design** for in-body wireless communication.
-
-🧪 My current research involves **implantable antennas, wireless capsule endoscopy (WCE), circular polarization, antenna miniaturization, SAR analysis, and WBAN applications**.
-
-💻 I use electromagnetic simulation and RF design tools including **Ansys HFSS, ADS, MATLAB, and Cadence**.
-
-🔬 Interested in research involving:
-
-- Implantable Antennas
-- Capsule Antennas
-- Biomedical RF Systems
-- Circularly Polarized Antennas
-- Low-SAR Antenna Design
-- Antenna Miniaturization
-- WBAN / In-body Communication
-- RF & Microwave Engineering
-- Electromagnetic Simulation
+🎓 B.Tech Electronics & Communication Engineering student and Senior Undergraduate Researcher.  
+📡 Working on **biomedical, implantable, and capsule antenna design** for in-body wireless communication.  
+🔬 Interested in **RF/microwave engineering, circular polarization, antenna miniaturization, and low-SAR design**.  
+🧪 Designing and simulating antennas using **HFSS, ADS, MATLAB, and Cadence**.  
+🚀 Currently working on antenna solutions for **Wireless Capsule Endoscopy (WCE) and WBAN applications**.
 
 ---
 
@@ -46,12 +19,12 @@
 
 <div align="center">
 
-| Biomedical RF | Antenna Design | Simulation & Analysis |
-|:---:|:---:|:---:|
-| Implantable Antennas | Circular Polarization | HFSS |
-| Capsule Antennas | Antenna Miniaturization | ADS |
-| WBAN | Low-SAR Design | MATLAB |
-| In-body Communication | Conformal Antennas | Cadence |
+| Biomedical RF | Antenna Design | Analysis |
+|----------|------------------|----------|
+| 🩺 Implantable Antennas | 📡 Circularly Polarized Antennas | 📊 SAR Analysis |
+| 💊 Capsule Antennas | 📐 Antenna Miniaturization | 📈 S-Parameter Analysis |
+| 🧬 WBAN | 🔄 Conformal Antennas | 📡 Radiation Analysis |
+| 🫀 In-body Communication | 📶 RF/Microwave Design | ⚡ Link Budget Analysis |
 
 </div>
 
@@ -59,72 +32,112 @@
 
 ## 📚 Research Work
 
-### 🧬 Wireless Capsule Endoscopy
+### 📡 Compact Circularly Polarized Conformal Loop Antenna for Wireless Capsule Endoscopy
 
-**Compact Circularly Polarized Conformal Loop Antenna for Wireless Capsule Endoscopy**
+**First Author**
 
-- Compact antenna design for in-body wireless communication
-- Circular polarization for improved wireless link reliability
-- Electromagnetic analysis in biological tissue environments
-- Research focused on capsule antenna miniaturization and radiation performance
-- **First Author**
-- *Under review at IEEE Sensors Journal*
+🔬 Biomedical Antenna Design  
+📡 Wireless Capsule Endoscopy  
+🔄 Circular Polarization  
+🧬 In-body Wireless Communication  
 
----
-
-### 🩺 Implantable Antenna
-
-**5.8 GHz M-Shaped Notch Implantable Antenna for Biomedical Applications**
-
-- Miniaturized implantable antenna operating in the 5.8 GHz ISM band
-- Circularly polarized radiation characteristics
-- Low-SAR design for biomedical applications
-- Three-layer human tissue model consisting of skin, fat and muscle
-- Electromagnetic and SAR analysis using HFSS
-- **First Author**
-- *Under review for IEEE MAPCON 2026*
+**Status:** `Under Review`  
+**Journal:** *IEEE Sensors Journal*
 
 ---
 
-## 🛠️ Technical Toolbox
+### 🩺 5.8 GHz M-Shaped Notch Implantable Antenna for Biomedical Applications
 
-### Programming & HDL
+**First Author**
+
+📡 Implantable Antenna  
+📶 5.8 GHz ISM Band  
+🔄 Circular Polarization  
+🧪 Low-SAR Design  
+🧬 WBAN Applications  
+
+**Status:** `Under Review`  
+**Conference:** *IEEE MAPCON 2026*
+
+---
+
+## ⚙️ Toolbox I Use
+
+<div align="center">
+  
+| Programming | RF & Simulation | Hardware & Design |
+|----------|------------------|------------------|
+| ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge) | ![HFSS](https://img.shields.io/badge/Ansys-HFSS-FFB71B?style=for-the-badge) ![ADS](https://img.shields.io/badge/Keysight-ADS-CC0000?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white) ![Cadence](https://img.shields.io/badge/Cadence-IC%20Design-DA291C?style=for-the-badge) | ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-FF6600?style=for-the-badge) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005C8D?style=for-the-badge&logo=autodesk&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+
+</div>
+
+---
+
+## 🧪 Research Skills
+
+<div align="center">
+
+![Antenna Design](https://img.shields.io/badge/Antenna%20Design-📡-blue?style=for-the-badge)
+![HFSS Simulation](https://img.shields.io/badge/HFSS%20Simulation-⚡-orange?style=for-the-badge)
+![RF Microwave](https://img.shields.io/badge/RF%20%26%20Microwave-📶-purple?style=for-the-badge)
+![SAR Analysis](https://img.shields.io/badge/SAR%20Analysis-🧬-green?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-📊-red?style=for-the-badge)
+![ADS](https://img.shields.io/badge/ADS-🔬-blue?style=for-the-badge)
+![Circular Polarization](https://img.shields.io/badge/Circular%20Polarization-🔄-yellow?style=for-the-badge)
+![WBAN](https://img.shields.io/badge/WBAN-🩺-pink?style=for-the-badge)
+
+</div>
+
+---
+
+## 📂 Featured Research Projects
+
+<div align="center">
+
+<a href="https://github.com/yuvrajsingh835">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajsingh835&repo=8-bit-computer&theme=algolia&hide_border=true" />
+</a>
+
+</div>
+
+> More biomedical antenna simulation and RF analysis projects will be added here.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh835&show_icons=true&theme=algolia&hide_border=true&border_radius=12" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsingh835&layout=compact&theme=algolia&hide_border=true&border_radius=12" width="49%" />
+</div>
+
+---
+
+## 🌱 Daily GitHub Activity
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Verilog-8B8B8B?style=for-the-badge">
-
+  <img src="https://streak-stats.demolab.com?user=yuvrajsingh835&theme=algolia&hide_border=true" />
 </p>
 
-### RF / Antenna / Engineering Tools
+---
 
-<p align="center">
+## 📈 Research Focus
 
-<img src="https://img.shields.io/badge/Ansys-HFSS-FFB71B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Keysight-ADS-CC0000?style=for-the-badge">
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-<img src="https://img.shields.io/badge/Cadence-IC%20Design-DA291C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Xilinx-Vivado-FF6600?style=for-the-badge">
-<img src="https://img.shields.io/badge/Fusion%20360-005C8D?style=for-the-badge&logo=autodesk&logoColor=white">
-
-</p>
-
-### Areas of Work
+<div align="center">
 
 ```text
-Electromagnetic Simulation
-        ↓
-Antenna Design & Optimization
-        ↓
-S-Parameters / Radiation / Gain
-        ↓
-Circular Polarization & Axial Ratio
-        ↓
-SAR & Tissue Analysis
-        ↓
-RF / Circuit Analysis
-        ↓
 Biomedical Wireless Communication
+              │
+      ┌───────┴───────┐
+      │               │
+ Implantable      Capsule Antennas
+ Antennas              │
+      │                │
+      ├───────┬────────┤
+      │       │        │
+     SAR     CP    Miniaturization
+      │       │        │
+      └───────┴────────┘
+              │
+        RF/Microwave
+        Engineering
