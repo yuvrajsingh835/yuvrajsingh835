@@ -36,7 +36,7 @@
   
 | Programming | RF & Simulation | Hardware & Design |
 |----------|------------------|------------------|
-| ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge) | ![HFSS](https://img.shields.io/badge/Ansys-HFSS-FFB71B?style=for-the-badge) ![ADS](https://img.shields.io/badge/Keysight-ADS-CC0000?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white) ![Cadence](https://img.shields.io/badge/Cadence-IC%20Design-DA291C?style=for-the-badge) | ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-FF6600?style=for-the-badge) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005C8D?style=for-the-badge&logo=autodesk&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+| ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-00599C?style=for-the-badge) | ![HFSS](https://img.shields.io/badge/Ansys-HFSS-FFB71B?style=for-the-badge) ![ADS](https://img.shields.io/badge/Keysight-ADS-CC0000?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white) ![Cadence](https://img.shields.io/badge/Cadence-IC%20Design-DA291C?style=for-the-badge) | ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005C8D?style=for-the-badge&logo=autodesk&logoColor=white)![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
 </div>
 
@@ -90,35 +90,6 @@
 
 ---
 
-## ⚙️ Toolbox I Use
-
-<div align="center">
-  
-| Programming | RF & Simulation | Hardware & Design |
-|----------|------------------|------------------|
-| ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge) | ![HFSS](https://img.shields.io/badge/Ansys-HFSS-FFB71B?style=for-the-badge) ![ADS](https://img.shields.io/badge/Keysight-ADS-CC0000?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white) ![Cadence](https://img.shields.io/badge/Cadence-IC%20Design-DA291C?style=for-the-badge) | ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-FF6600?style=for-the-badge) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005C8D?style=for-the-badge&logo=autodesk&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
-
-</div>
-
----
-
-## 🧪 Research Skills
-
-<div align="center">
-
-![Antenna Design](https://img.shields.io/badge/Antenna%20Design-📡-blue?style=for-the-badge)
-![HFSS Simulation](https://img.shields.io/badge/HFSS%20Simulation-⚡-orange?style=for-the-badge)
-![RF Microwave](https://img.shields.io/badge/RF%20%26%20Microwave-📶-purple?style=for-the-badge)
-![SAR Analysis](https://img.shields.io/badge/SAR%20Analysis-🧬-green?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-📊-red?style=for-the-badge)
-![ADS](https://img.shields.io/badge/ADS-🔬-blue?style=for-the-badge)
-![Circular Polarization](https://img.shields.io/badge/Circular%20Polarization-🔄-yellow?style=for-the-badge)
-![WBAN](https://img.shields.io/badge/WBAN-🩺-pink?style=for-the-badge)
-
-</div>
-
----
-
 ## 📂 Featured Research Projects
 
 <div align="center">
@@ -148,25 +119,3 @@
   <img src="https://streak-stats.demolab.com?user=yuvrajsingh835&theme=algolia&hide_border=true" />
 </p>
 
----
-
-## 📈 Research Focus
-
-<div align="center">
-
-```text
-Biomedical Wireless Communication
-              │
-      ┌───────┴───────┐
-      │               │
- Implantable      Capsule Antennas
- Antennas              │
-      │                │
-      ├───────┬────────┤
-      │       │        │
-     SAR     CP    Miniaturization
-      │       │        │
-      └───────┴────────┘
-              │
-        RF/Microwave
-        Engineering
